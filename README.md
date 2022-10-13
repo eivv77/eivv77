@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eivv77 (Nurlan Eyvazov)
+- 👀 I’m interested in coding, and sticked to my codeRoad
+- 🌱 I’m currently learning C# and JavaScript
+- 📫 How to reach me: you can find telegram nick in my bio :)
